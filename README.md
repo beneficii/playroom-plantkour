@@ -29,7 +29,11 @@ You can play the game online by visiting the following link: [Plantkour on itch.
 
 ### Prerequisites
 
-You will need Node.js and npm (Node Package Manager) installed on your system.
+Have npm (Node Package Manager) installed on your system and run
+
+   ```bash
+   npm install
+   ```
 
 ### Running the Game Locally
 
